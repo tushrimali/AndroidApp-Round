@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.displayingbitmaps.ui.MainActivity">
+
+    <item android:id="@+id/action_camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Take Picture"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
+<!-- From: file:/Users/tusharshrimali/Desktop/TrialRun/Application/src/main/res/menu/menu_main.xml -->
